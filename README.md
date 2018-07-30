@@ -1,0 +1,2 @@
+# Quix
+Install Quix Masternode
