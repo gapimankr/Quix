@@ -104,4 +104,7 @@ until quix-cli masternode status | grep -m 1 '"status": "Masternode successfully
 echo "${GREEN}Done! Masternode successfully started, now you can close connection and wait until in your wallet will write ENABLED.${NONE}"
 
 echo ""
-echo "If this guild help you, then you can sent me some tips ;) QUIX QRfy36th8YXJwWQt627hQ5gNLU487uqTCJ BTC 12nxh3nUTJHve3XGaXrh692xQZMVLJLFJm DOGE DJbHoCkzwzqjyrJxT1hGwN1rzZdJFzBseG"
+echo "If this guild help you, then you can sent me some tips ;)"
+echo "QUIX QRfy36th8YXJwWQt627hQ5gNLU487uqTCJ"
+echo "BTC 12nxh3nUTJHve3XGaXrh692xQZMVLJLFJm"
+echo "DOGE DJbHoCkzwzqjyrJxT1hGwN1rzZdJFzBseG"
