@@ -21,7 +21,8 @@ Install shell script for Quix  Masternode
 ```
 wget https://raw.githubusercontent.com/gapimankr/Quix/master/quixmn.sh && chmod +x quixmn.sh && sudo ./quixmn.sh
 ``` 
-4. Script will ask you for Masternode Kay(Step 6 from Desktop wallet setup)
+4. Script will guide you step by step.
+5. When will ask you for Masternode Kay look step 6 from Desktop wallet setup.
 
 ***
 
